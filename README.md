@@ -1,6 +1,6 @@
 #  Projeto de Gerenciamento de Sublocação de Consultórios
 
-## Projeto baseado no Gerenciaamento de Salas de Reuniões desenvolvido no Bootcamp da Digital Innovation One
+## Projeto baseado no Gerenciamento de Salas de Reunião desenvolvido no Bootcamp da Digital Innovation One
 
 ### Esse é o Back-end do Projeto
 
